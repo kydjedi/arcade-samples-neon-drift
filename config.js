@@ -1,3 +1,3 @@
 window.GAME_CONFIG = {
-  title: "Acer Neon Drift 090903"
+  title: "Acer Neon Drift 090904"
 }
